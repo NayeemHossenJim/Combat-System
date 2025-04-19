@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/AI Behavior/Combat System/Combat_System/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/Damage_System/BPI_Damagable.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/Damage_System/E_DamageType.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/Damage_System/E_DamageResponse.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/Damage_System/S_DamageInfo.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/Damage_System/BP_Player.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/Damage_System/Player/BP_Player.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/Damage_System/BPC_DamageSystem.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/Damage_System/Enemy/BP_Enemy.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QC/0DDQ27RXUB4VBNA84Q95JV.uasset",
+				"D:/AI Behavior/Combat System/Combat_System/Content/Damage_System/W_HealthBar.uasset"
+			]
+		}
+	]
+}
